@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TableBody exists 1`] = `
+<DocumentFragment>
+  My Game
+  <button
+    aria-label="Delete"
+    class="btn btn-danger"
+  >
+    <i
+      class="bi bi-trash"
+    />
+  </button>
+</DocumentFragment>
+`;

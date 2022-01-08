@@ -1,0 +1,188 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameForm exists 1`] = `
+<DocumentFragment>
+  <div
+    class="position-relative"
+  >
+    <div
+      class="card"
+    >
+      <form>
+        <div
+          class="card-header bg-dark text-white"
+        >
+          Game Form
+        </div>
+        <div
+          class="card-body"
+        >
+          <input
+            type="hidden"
+            value="123"
+          />
+          <div
+            class="row mb-2"
+          >
+            <div
+              class="col-3"
+            >
+              <label
+                class="form-label"
+                for="title-1"
+              >
+                Title
+              </label>
+              <input
+                class="form-control undefined"
+                id="title-1"
+                type="text"
+                value="My Game"
+              />
+            </div>
+            <div
+              class="col-3"
+            >
+              <label
+                class="form-label"
+                for="platform-2"
+              >
+                Platform
+              </label>
+              <input
+                class="form-control undefined"
+                id="platform-2"
+                type="text"
+                value=""
+              />
+            </div>
+            <div
+              class="col-3"
+            >
+              <label
+                class="form-label"
+                for="startDate-3"
+              >
+                Start Date
+              </label>
+              <input
+                class="form-control undefined"
+                id="startDate-3"
+                type="date"
+                value=""
+              />
+            </div>
+            <div
+              class="col-3"
+            >
+              <label
+                class="form-label"
+                for="endDate-4"
+              >
+                End Date
+              </label>
+              <input
+                class="form-control undefined"
+                id="endDate-4"
+                type="date"
+                value=""
+              />
+            </div>
+          </div>
+          <div
+            class="row mb-2"
+          >
+            <div
+              class="col-3"
+            >
+              <label
+                class="form-label"
+                for="status-5"
+              >
+                Status
+              </label>
+              <input
+                class="form-control undefined"
+                id="status-5"
+                type="text"
+                value=""
+              />
+            </div>
+            <div
+              class="col-3"
+            >
+              <label
+                class="form-label"
+                for="hoursToComplete-6"
+              >
+                Hours to Complete
+              </label>
+              <input
+                class="form-control undefined"
+                id="hoursToComplete-6"
+                type="number"
+                value="0"
+              />
+            </div>
+            <div
+              class="col-3"
+            >
+              <label
+                class="form-label"
+                for="rating-7"
+              >
+                Rating
+              </label>
+              <input
+                class="form-control undefined"
+                id="rating-7"
+                type="number"
+                value="0"
+              />
+            </div>
+            <div
+              class="col-3"
+            >
+              <label
+                class="form-label"
+                for="price-8"
+              >
+                Price
+              </label>
+              <input
+                class="form-control undefined"
+                id="price-8"
+                type="number"
+                value="0"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="card-footer bg-dark text-white"
+        >
+          <div
+            class="d-flex justify-content-end align-items-end"
+          >
+            <button
+              class="btn btn-primary"
+              type="submit"
+            >
+              Create New
+            </button>
+            <div
+              class="mx-2"
+            />
+            <button
+              class="btn btn-primary"
+              type="submit"
+            >
+              Update
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</DocumentFragment>
+`;

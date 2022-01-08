@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TablePagination exists 1`] = `
+<DocumentFragment>
+  <nav
+    aria-label="Page navigation example"
+  >
+    <ul
+      class="pagination my-1"
+    >
+      <li
+        class="page-item"
+      >
+        <button
+          class="page-link"
+          disabled=""
+        >
+          Previous
+        </button>
+      </li>
+      <li
+        class="page-item  active"
+      >
+        <button
+          class="page-link"
+        >
+          1
+        </button>
+      </li>
+      <li
+        class="page-item "
+      >
+        <button
+          class="page-link"
+        >
+          2
+        </button>
+      </li>
+      <li
+        class="page-item"
+      >
+        <button
+          class="page-link"
+        >
+          Next
+        </button>
+      </li>
+    </ul>
+  </nav>
+</DocumentFragment>
+`;

@@ -1,0 +1,144 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameTable exists 1`] = `
+<DocumentFragment>
+  <div
+    class="card"
+  >
+    <div
+      class="card-header bg-dark text-white"
+    >
+      Game Table
+    </div>
+    <div
+      class="card-body p-0"
+    >
+      <table
+        class="table table-hover table-sm"
+      >
+        <caption
+          class="visually-hidden"
+        >
+          Game Table
+        </caption>
+        <thead>
+          <tr>
+            <th
+              class="text-center"
+              scope="col"
+            >
+              Title
+            </th>
+            <th
+              class="text-center"
+              scope="col"
+            >
+              Status
+            </th>
+            <th
+              class="text-center"
+              scope="col"
+            >
+              Rating
+            </th>
+            <th
+              class="text-center"
+              scope="col"
+            >
+              Delete
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr
+            class="table-active"
+          >
+            <td
+              class="text-center"
+            >
+              Game 1
+            </td>
+            <td
+              class="text-center"
+            />
+            <td
+              class="text-center"
+            />
+            <td
+              class="text-center"
+            >
+              <button
+                aria-label="Delete"
+                class="btn btn-danger"
+              >
+                <i
+                  class="bi bi-trash"
+                />
+              </button>
+            </td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td
+              class="border-0"
+              colspan="4"
+            >
+              <div
+                class="d-flex"
+              >
+                <div
+                  class="align-self-center ms-1"
+                >
+                  Showing 1 to 1 of 1
+                </div>
+                <div
+                  class="ms-auto"
+                >
+                  <nav
+                    aria-label="Page navigation example"
+                  >
+                    <ul
+                      class="pagination my-1"
+                    >
+                      <li
+                        class="page-item"
+                      >
+                        <button
+                          class="page-link"
+                          disabled=""
+                        >
+                          Previous
+                        </button>
+                      </li>
+                      <li
+                        class="page-item  active"
+                      >
+                        <button
+                          class="page-link"
+                        >
+                          1
+                        </button>
+                      </li>
+                      <li
+                        class="page-item"
+                      >
+                        <button
+                          class="page-link"
+                          disabled=""
+                        >
+                          Next
+                        </button>
+                      </li>
+                    </ul>
+                  </nav>
+                </div>
+              </div>
+            </td>
+          </tr>
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</DocumentFragment>
+`;

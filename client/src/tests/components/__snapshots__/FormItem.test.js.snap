@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormItem exists 1`] = `
+<DocumentFragment>
+  <label
+    class="form-label"
+    for="title-1"
+  >
+    Title
+  </label>
+  <input
+    class="form-control undefined"
+    id="title-1"
+    type="text"
+    value="My title"
+  />
+</DocumentFragment>
+`;

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DetailsItem exists 1`] = `
+<DocumentFragment>
+  <strong />
+  <br />
+  <span />
+</DocumentFragment>
+`;

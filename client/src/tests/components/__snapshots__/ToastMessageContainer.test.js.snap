@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ToastMessageContainer exists 1`] = `
+<DocumentFragment>
+  <div
+    class="toast-container position-fixed p-3 border-0 bottom-0 end-0"
+  />
+</DocumentFragment>
+`;

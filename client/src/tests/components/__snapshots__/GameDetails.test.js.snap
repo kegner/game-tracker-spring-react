@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameDetails exists 1`] = `
+<DocumentFragment>
+  <div
+    class="card"
+  >
+    <div
+      class="card-header bg-dark text-white"
+    >
+      Game Details
+    </div>
+    <div
+      class="card-body"
+    >
+      <div
+        class="row mb-3"
+      >
+        <div
+          class="col-3"
+        >
+          <strong>
+            Title
+          </strong>
+          <br />
+          <span>
+            My Game
+          </span>
+        </div>
+        <div
+          class="col-3"
+        >
+          <strong>
+            Platform
+          </strong>
+          <br />
+          <span />
+        </div>
+        <div
+          class="col-3"
+        >
+          <strong>
+            Start Date
+          </strong>
+          <br />
+          <span />
+        </div>
+        <div
+          class="col-3"
+        >
+          <strong>
+            End Date
+          </strong>
+          <br />
+          <span />
+        </div>
+      </div>
+      <div
+        class="row mb-3"
+      >
+        <div
+          class="col-3"
+        >
+          <strong>
+            Status
+          </strong>
+          <br />
+          <span />
+        </div>
+        <div
+          class="col-3"
+        >
+          <strong>
+            Hours to Complete
+          </strong>
+          <br />
+          <span />
+        </div>
+        <div
+          class="col-3"
+        >
+          <strong>
+            Rating
+          </strong>
+          <br />
+          <span />
+        </div>
+        <div
+          class="col-3"
+        >
+          <strong>
+            Price
+          </strong>
+          <br />
+          <span />
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

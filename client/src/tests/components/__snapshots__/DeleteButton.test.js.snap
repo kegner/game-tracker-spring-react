@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DeleteButton exists 1`] = `
+<DocumentFragment>
+  <button
+    aria-label="Delete"
+    class="btn btn-danger"
+  >
+    <i
+      class="bi bi-trash"
+    />
+  </button>
+</DocumentFragment>
+`;
