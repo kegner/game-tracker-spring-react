@@ -41,6 +41,7 @@ server.ssl.enabled=false
 Running the frontend separately while developing allows for faster iteration by utilizing React's hot reloading.
 
 * Navigate to the `/client/` folder
+* For the first time building, run `npm install` to install the npm dependencies
 * Run the command `npm start`. This will start the app on localhost:3000
 
 Confirm the `package.json` file has the correct port for your Spring Boot applicaton.
